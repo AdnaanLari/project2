@@ -1,7 +1,7 @@
 # GSAP Animation Practice Project
 
 A simple webpage built with **HTML**, **CSS**, and **GSAP** to practice smooth animations and staggered transitions.  
-Deployed on **Vercel** → [Live Demo](https://your-vercel-link.vercel.app/)
+Deployed on **Vercel** → [Live Demo](https://project2-eden.vercel.app/)
 
 ---
 
