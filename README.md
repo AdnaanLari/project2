@@ -22,7 +22,7 @@ Deployed on **Vercel** → [Live Demo](https://your-vercel-link.vercel.app/)
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here to view](https://your-vercel-link.vercel.app/)
+🔗 [Click here to view](https://project2-eden.vercel.app/)
 
 ---
 
@@ -36,4 +36,5 @@ GSAP/
 
 ## 🧑‍💻 Author
 **Adnaan Lari**  
-GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
+GitHub: [GitHubUsername](https://github.com/AdnaanLari)  
+LinkedIn:[LinkedInUsername](https://www.linkedin.com/in/adnaan-lari-a95831311/)
